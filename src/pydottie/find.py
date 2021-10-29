@@ -1,7 +1,7 @@
 from typing import Any, Dict
 
 # Utilities
-from src.pydottie.get import get
+from .get import get
 
 
 def find(path: str, obj: Dict) -> Any:

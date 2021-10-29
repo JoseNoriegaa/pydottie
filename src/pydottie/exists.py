@@ -1,7 +1,7 @@
 from typing import Dict
 
 # Utilities
-from src.pydottie.get import get
+from .get import get
 
 
 def exists(obj: Dict, path: str) -> bool:

@@ -1,7 +1,7 @@
 from setuptools import setup  # type: ignore
 from setuptools import find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'PyDottie is a library based on dottie.js written in Python 3.'
 
 with open('README.md', 'r', encoding='utf-8') as fh:
